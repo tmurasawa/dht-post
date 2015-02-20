@@ -54,7 +54,7 @@ DHT dht(DHTPIN, DHTTYPE);   // LED pins
 
 
 // scalenics 
-#define DEVICE_TOKEN "FA2EFC30EC66E07DFD5B7B4124A99E49"
+#define DEVICE_TOKEN "YOUR_DEVICE_TOKEN_HERE"
 #define DEVICE_ID "arduino01"
 
 
